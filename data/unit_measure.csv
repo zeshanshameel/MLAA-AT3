@@ -1,0 +1,39 @@
+unit_measure_code,name
+ee0468c7-6417-489a-b233-da57ab966174,Boxes
+7768b253-7430-402f-b90f-1e025c57459b,Bottle
+1f485b4e-fc4d-47b2-ab57-af19b21eee40,Celsius
+e87c6cb9-24ca-405a-996c-8f59ab7730fa,Canister
+91fa7aa6-72aa-40a6-822f-8b80aa9f6376,Carton
+1f5f8ee7-58c4-4c4e-b8db-b7c1025b3400,Cubic meters
+b4c6422a-e170-4911-852f-38a7c19f5573,Cubic centimeter
+5c3d2f68-8573-4e53-8c4e-a72a5f92518e,Cubic decimeter
+e2e52698-ce31-4fb2-866f-bcffbdfd3147,Centimeter
+7d2f574f-2c4b-45e5-bb2e-7c74c247492c,Square centimeter
+44f61043-62cb-4dea-a921-edf1df4b6a39,Crate
+609a70c5-01f5-48f0-9939-4f04449e2018,Case
+0cc915c9-7473-4676-afff-2a4d4f023594,Container
+28bd7d2e-b75a-40dc-b62f-f360a9de2559,Decimeter
+75fa117b-bb26-4752-8ec5-771acf4c50f6,Dozen
+8dbf3502-309f-4636-9f3e-1ae1cabc748b,Each
+cf068cf8-e6f9-4956-b31b-1d6eb91f3c5c,Cubic foot
+8c4f020f-f9c1-492b-8395-1372b7bda7a7,Gram
+acbdd92d-1e1f-4ba8-a695-3f0c82d87759,Gallon
+7cca3216-2076-4b76-b746-8d4a33c94222,Inch
+8dae8c54-6149-48bd-a0e1-9050f4ee82b6,Kilogram
+d8954392-48a0-4cce-af48-15a83ab47274,Kilogram/cubic meter
+ee700422-0d9b-48c5-ae33-d08b8b5034bf,Kilometer
+57ee0c60-3085-4d9c-bae2-26022aa2d447,Kiloton
+aea9d8c5-cf48-46e0-afa3-f36c6cf44c4e,Liter
+c4797df8-be0b-4d3a-a6c4-0f1765f0a822,US pound
+dd058911-cfcb-4c19-9df7-a8f40bbccf13,Meter
+ee1d7851-244e-47db-8960-bced186cccad,Square meter
+8cb5f9fe-f273-42f3-96e4-1f93e26bb318,Cubic meter
+b0a224d6-adce-4062-b701-32d569ddaa05,Milligram
+3fbce844-926c-442f-87d9-9017094ed6b7,Milliliter
+1316d404-c512-49da-bfb6-f6df816570ef,Millimeter
+5c50e872-03a3-4aa1-8d0a-103cdf0fc00d,Ounces
+6ad6e4b7-e1c2-42f2-90f6-306f08b41623,Pack
+2eb286e8-8050-4cf5-a260-fd2cedb6e1f4,Pallet
+5885bdb8-189e-4001-9f96-9cffd780b130,Piece
+14266c5d-bb1d-4b58-9d8d-f13f6eb35863,Percentage
+a24c076e-f88e-44e9-811b-b4a3da40d463,"Pint, US liquid"

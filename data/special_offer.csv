@@ -1,0 +1,17 @@
+special_offer_id,min_quantity,max_quantity,description,discount_pct,type,category,start_date,end_date
+a1444fcd-4b51-4227-94cf-b13c1a2a6281,0.0,,No Discount,0.0,No Discount,No Discount,2011-05-01 00:00:00,2014-11-30 00:00:00
+df7c9acd-bc0c-4ab0-93ec-064e2b93af0d,11.0,14.0,Volume Discount 11 to 14,0.02,Volume Discount,Reseller,2011-05-31 00:00:00,2014-05-30 00:00:00
+da53c22d-5867-4110-b1d0-8d84bea95ab5,15.0,24.0,Volume Discount 15 to 24,0.05,Volume Discount,Reseller,2011-05-31 00:00:00,2014-05-30 00:00:00
+aec729b3-e92e-4f2c-971c-4c5d426a99b9,25.0,40.0,Volume Discount 25 to 40,0.1,Volume Discount,Reseller,2011-05-31 00:00:00,2014-05-30 00:00:00
+41f713bd-c29a-4ab1-ae06-dbb51ec03ec0,41.0,60.0,Volume Discount 41 to 60,0.15,Volume Discount,Reseller,2011-05-31 00:00:00,2014-05-30 00:00:00
+aec8118d-8c09-4aa9-94f1-e83b9ce8ed96,61.0,,Volume Discount over 60,0.2,Volume Discount,Reseller,2011-05-31 00:00:00,2014-05-30 00:00:00
+c56f47a7-91e8-42c0-ba34-1048ceb3deb0,0.0,,Mountain-100 Clearance Sale,0.35,Discontinued Product,Reseller,2012-04-13 00:00:00,2012-05-29 00:00:00
+acc417ee-ae0e-4d78-8f48-3f541565c54e,0.0,,Sport Helmet Discount-2002,0.1,Seasonal Discount,Reseller,2012-05-30 00:00:00,2012-06-29 00:00:00
+7a5bcdc4-f911-44d3-9567-2d0e118e94fd,0.0,,Road-650 Overstock,0.3,Excess Inventory,Reseller,2012-05-30 00:00:00,2012-07-30 00:00:00
+7f6fec50-c118-4942-aca3-8c28b95e489b,0.0,,Mountain Tire Sale,0.5,Excess Inventory,Customer,2013-05-14 00:00:00,2013-07-29 00:00:00
+a09a7508-0e3b-42aa-942e-dde8428b1f62,0.0,,Sport Helmet Discount-2003,0.15,Seasonal Discount,Reseller,2013-05-30 00:00:00,2013-06-29 00:00:00
+c6fdf038-0e61-436b-a074-ba205a1221cc,0.0,,LL Road Frame Sale,0.35,Excess Inventory,Reseller,2013-05-30 00:00:00,2013-07-14 00:00:00
+c319131d-f166-40fe-ab38-cc2cb9f370d8,0.0,,Touring-3000 Promotion,0.15,New Product,Reseller,2013-05-30 00:00:00,2013-08-29 00:00:00
+6468cb43-e8b4-475f-b705-f4d37f1c59eb,0.0,,Touring-1000 Promotion,0.2,New Product,Reseller,2013-05-30 00:00:00,2013-08-29 00:00:00
+26e5fe80-b12f-43fe-aeb0-f8bd97970c49,0.0,,Half-Price Pedal Sale,0.5,Seasonal Discount,Customer,2013-07-14 00:00:00,2013-08-14 00:00:00
+57594a82-1a1c-497b-98dd-90e46a1c045c,0.0,,Mountain-500 Silver Clearance Sale,0.4,Discontinued Product,Reseller,2014-03-31 00:00:00,2014-05-30 00:00:00

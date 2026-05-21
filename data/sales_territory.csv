@@ -1,0 +1,5 @@
+territory_id,name,CountryRegionCode,group,sales_ytd,sales_last_year,cost_ytd,cost_last_year
+0ad4c625-bb65-4376-8a41-0a65719b0db8,France,FR,Europe,4772398.3078,2396539.7601,0.0,0.0
+25d73ad2-9e13-410b-8b0d-5f26e2b9e4f2,Germany,DE,Europe,3805202.3478,1307949.7917,0.0,0.0
+2ac923e9-3043-4f5e-bae0-ad28089bf187,Australia,AU,Pacific,5977814.9154,2278548.9776,0.0,0.0
+e0e3bac4-790e-4617-84b3-be0c2bdb7070,United Kingdom,GB,Europe,5012905.3656,1635823.3967,0.0,0.0
