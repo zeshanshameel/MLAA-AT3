@@ -1,18 +1,17 @@
-# Student C - Anomaly Detection
+# Student A - Classification
 
 Place all anomaly detection notebooks and editable PDF exports here.
 
 ## Assigned EDA Datasets
 
-- `store.csv`
-- `product.csv`
-- `product_sub_category.csv`
-- `product_category.csv`
+- `customer.csv`
+- `sales_order_header.csv`
+- `unit_measure.csv`
 
 ## Required Notebook Types
 
 - EDA notebooks
 - Preparation notebook
 - Baseline notebook
-- Final anomaly detection notebook
+- Classification notebook
 
