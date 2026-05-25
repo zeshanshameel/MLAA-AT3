@@ -6,9 +6,7 @@ This folder mirrors the assignment structure.
 
 - `data/`: required CSV datasets.
 - `notebooks/`: student notebook workspaces.
-- `reports/`: final report draft sections and assets.
 - `collaboration/`: meeting minutes, task board, contributions, and peer review notes.
-- `src/`: optional reusable Python helper code.
 - `submission/`: staging checklist for final Canvas upload.
 
 ## Notebook Rule
